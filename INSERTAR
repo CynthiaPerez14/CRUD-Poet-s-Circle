@@ -1,0 +1,2 @@
+INSERT INTO poets VALUES
+(6, 'Cynthia', 'Perez', 'Chihuahua, Mexico', '31030', '+52-614-109-18-82');
