@@ -1,0 +1,4 @@
+
+UPDATE poets
+SET first_name = 'Rocio', surname = 'Silva'
+WHERE  first_name = 'Cynthia' 
