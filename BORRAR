@@ -1,0 +1,2 @@
+DELETE FROM poets
+WHERE first_name = 'Rocio'
